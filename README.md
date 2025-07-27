@@ -2,14 +2,14 @@
 
 This project implements a GPIO driver in **C (Object-Oriented style)** for STM32F103 using **bare-metal programming** and **STM32Cube headers**.
 
-## 📦 Features
+##  Features
 
 - Supports GPIOA to GPIOE
 - Configure mode, speed, pull-up/down, alternate function
 - Write, Toggle pin state
 - Lightweight and reusable
 
-## 🔧 Usage
+##  Usage
 
 ```c
 GPIO_OOP_InitTypeDef led = {
